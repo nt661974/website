@@ -1,0 +1,57 @@
+baseURL = "http://haxhub.xyz/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "zzo"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xHTML = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[Author] # Used in authorbox
+  name = "Paarangat Jain"
+  bio = "Hi. I am Paarangat Jain, the person behind Hax Tech"
+  avatar = "img/avatar.png"
+
+  [outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+
+# Custom social links
+
+ 
+ [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    url = "/"
+    weight = "1"
+
+ [[menu.main]]
+    identifier = "About Me"
+    name = "About Me"
+    url = "/about/"
+    weight = "3"
+
+ [[menu.main]]
+    identifier = "Videos"
+    name = "videos"
+    url = "videos/"
+
