@@ -1,0 +1,35 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about"
+    weight = 2
+
+[[main]]
+    identifier = "store"
+    name = "Store"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "https://store.christitus.com"
+    weight = 3
+
+[[main]]
+    name = "Members"
+    post = ""
+    pre = "<i class='fa fa-heart'></i>"
+    url = "https://portal.christitus.com"
+    weight = 4
+
+[[main]]
+    name = "Remote Support"
+    post = ""
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://download.teamviewer.com/download/TeamViewerQS.exe"
+    weight = 5
+
