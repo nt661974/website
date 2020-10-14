@@ -46,6 +46,44 @@
 
       
       <item>
+        <title>Linux</title>
+        <link>https://haxhub.xyz/linux/</link>
+        <pubDate>Wed, 14 Oct 2020 13:00:34 +1100</pubDate>
+        <author>haxhub0222@gmail.com (Hax Tech)</author>
+        <atom:modified>Wed, 14 Oct 2020 13:00:34 +1100</atom:modified>
+        <guid>https://haxhub.xyz/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Hax Tech</dc:creator>
+        <media:content url="https://haxhub.xyz//images/2020-thumbs/linux.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Networking</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>My First Post</title>
         <link>https://haxhub.xyz/posts/my-first-post/</link>
         <pubDate>Tue, 13 Oct 2020 20:07:29 +1100</pubDate>
