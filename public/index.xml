@@ -14,7 +14,7 @@
     <managingEditor>haxhub0222@gmail.com (Hax Tech)</managingEditor>
     <webMaster>haxhub0222@gmail.com (Hax Tech)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 13 Oct 2020 20:07:29 +1100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 22:06:44 +0000</lastBuildDate>
     
         <atom:link href="https://haxhub.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -52,6 +52,80 @@
         <author>haxhub0222@gmail.com (Hax Tech)</author>
         <atom:modified>Tue, 13 Oct 2020 20:07:29 +1100</atom:modified>
         <guid>https://haxhub.xyz/posts/my-first-post/</guid>
+        <description></description>
+        
+        <dc:creator>Hax Tech</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Howtoinstalllarchlinux</title>
+        <link>https://haxhub.xyz/howtoinstalllarchlinux/</link>
+        <pubDate>Thu, 01 Oct 2020 01:19:48 +0000</pubDate>
+        <author>haxhub0222@gmail.com (Hax Tech)</author>
+        <atom:modified>Thu, 01 Oct 2020 01:19:48 +0000</atom:modified>
+        <guid>https://haxhub.xyz/howtoinstalllarchlinux/</guid>
+        <description></description>
+        
+        <dc:creator>Hax Tech</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Networking</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Lax</title>
+        <link>https://haxhub.xyz/videos/lax/</link>
+        <pubDate>Wed, 30 Sep 2020 22:04:58 +0000</pubDate>
+        <author>haxhub0222@gmail.com (Hax Tech)</author>
+        <atom:modified>Wed, 30 Sep 2020 22:04:58 +0000</atom:modified>
+        <guid>https://haxhub.xyz/videos/lax/</guid>
+        <description></description>
+        
+        <dc:creator>Hax Tech</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Intro</title>
+        <link>https://haxhub.xyz/videos/intro/</link>
+        <pubDate>Wed, 30 Sep 2020 21:41:39 +0000</pubDate>
+        <author>haxhub0222@gmail.com (Hax Tech)</author>
+        <atom:modified>Wed, 30 Sep 2020 21:41:39 +0000</atom:modified>
+        <guid>https://haxhub.xyz/videos/intro/</guid>
         <description></description>
         
         <dc:creator>Hax Tech</dc:creator>
