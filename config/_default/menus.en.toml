@@ -33,3 +33,10 @@
     url = "https://download.teamviewer.com/download/TeamViewerQS.exe"
     weight = 5
 
+ [[main]]
+     identifier = "Patreon"
+     name = "patreon"
+     pre = "<i class='fa fa-heart'></i>"
+     url = ""
+     weight = 2
+

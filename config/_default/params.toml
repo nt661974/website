@@ -77,7 +77,6 @@ showSocialLinks = true # email, facebook, twitter ...
 enableLangChange = false # show button at bottom left of footer.
 
 # service
-googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = "" # alternative of google analytics
 enableBusuanzi = false # if set true, total page view, total unique visitors show up in the footer.
 busuanziSiteUV = true # unique visitors (total number of visitors)
@@ -86,7 +85,7 @@ busuanziPagePV = true # post view count
 
 # comment
 enableComment = true
-disqus_shortname = "christitus" 
+disqus_shortname = "" 
 commento = false
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
@@ -134,18 +133,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions] # if set, social icons will show up.
-  email = "mailto:contact@christitus.com"
+  email = "mailto:@gmail.com"
   phone = ""
   facebook = ""
-  twitter = "https://twitter.com/christitustech"
-  github = "https://github.com/ChrisTitusTech"
+  #twitter = "https://twitter.com/christitustech"
+  github = "https://github.com/paarangat"
   stack-overflow = ""
-  instagram = "https://www.instagram.com/christitustech/"
+  #instagram = "https://www.instagram.com/christitustech/"
   google-plus = ""
   youtube = "https://www.youtube.com/c/ChrisTitusTech"
   medium = ""
   tumblr = ""
-  linkedin = "https://www.linkedin.com/in/ctitus/"
+  #linkedin = "https://www.linkedin.com/in/ctitus/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -164,14 +163,14 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
-  twitch = "https://www.twitch.tv/christitustech"
+  #twitch = "https://www.twitch.tv/christitustech"
 
 [donationOptions]
   enable = false # if set, the donation button will show up on the single page.
   alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
   wechat = "" # Wechat pay QR Code image (example path: same as above)
-  paypal = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DKJ8HBXCAFQ3N&source=url" # Paypal URL
-  patreon = "https://www.patreon.com/christitustech" # Patreon URL
+  #paypal = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DKJ8HBXCAFQ3N&source=url" # Paypal URL
+  #patreon = "https://www.patreon.com/christitustech" # Patreon URL
   bitcoin = "" # example path: images/donation/bitcoin-code-image.png
 
 [copyrightOptions]
@@ -185,7 +184,7 @@ commento = false
   name = "facebook"
 [[share]]
   name = "twitter"
-  username = "christitustech"
+  #username = "christitustech"
 [[share]]
   name = "reddit"
 [[share]]
